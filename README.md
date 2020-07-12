@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nextjs-with-mdbreact
 
 ## Project setup
@@ -19,3 +20,7 @@ yarn run build
 ```
 yarn run start
 ```
+=======
+# React-SAC-TokenDashboard-
+The React version of the token dashboard
+>>>>>>> cb0f386537f0abe2802f9ebb6976b285f1beedd1
